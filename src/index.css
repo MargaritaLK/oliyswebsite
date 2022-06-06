@@ -1,6 +1,11 @@
 body {
-  background-color: #084c61;
+  background-color: #354f52;
+  color: white;
   margin: 0;
+  font-weight: 300;
+  font-size: 1em;
+  letter-spacing: 0.1em;
+  line-height: 140%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -11,4 +16,20 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+
+#linkstyle {
+  text-decoration: none;
+  color: white;
+}
+
+
+#linkstyle-italic {
+  /* text-decoration: none; */
+  text-decoration: underline;
+  color: white;
+  font-style: italic;
+
 }
