@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oliyswebsite/static/css/main.5675b87c.css",
+    "main.js": "/oliyswebsite/static/js/main.f1f9cb00.js",
+    "index.html": "/oliyswebsite/index.html",
+    "main.5675b87c.css.map": "/oliyswebsite/static/css/main.5675b87c.css.map",
+    "main.f1f9cb00.js.map": "/oliyswebsite/static/js/main.f1f9cb00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5675b87c.css",
+    "static/js/main.f1f9cb00.js"
+  ]
+}
