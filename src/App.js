@@ -8,7 +8,11 @@ function App() {
     <div className="App">
       <div className='maintitle-container'>
         <div className="maintitle">.oliys. </div>
-        <a className='subtitle' id='linkstyle' href="https://twitter.com/oliysart" target="_blank">@oliysart</a>
+        <div>
+          <span className='apestaartje'>@</span>
+          <a className='subtitle' id='linkstyle' href="https://twitter.com/oliysart" target="_blank">oliysart</a>
+        </div>
+
       </div>
     </div>
   );
