@@ -17,19 +17,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-
-
-#linkstyle {
-  text-decoration: none;
-  color: white;
-}
-
-
-#linkstyle-italic {
-  /* text-decoration: none; */
-  text-decoration: underline;
-  color: white;
-  font-style: italic;
-
-}
