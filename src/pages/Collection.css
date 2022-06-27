@@ -1,0 +1,20 @@
+.list-collection {
+  font-size: 0.9em;
+}
+
+
+
+.list-collection-title {
+  /* text-decoration: underline; */
+  padding: 0 0 1em 0;
+  border-bottom: 1.2px solid white;
+  width: 80%;
+  margin: 0 0 2em 0;
+
+
+}
+
+
+.list-collection-item {
+  padding: 0.4em 0;
+}
