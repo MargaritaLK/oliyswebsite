@@ -21,7 +21,7 @@ function ListCollection () {
     <div className='list-collection'>
 
       <div className='list-collection-item'>
-        <Link id='linkstyle' to='./calmingStarts'>calming stars</Link>
+        {/* <Link id='linkstyle' to='./calmingStarts'>calming stars</Link> */}
       </div>
 
     </div>
